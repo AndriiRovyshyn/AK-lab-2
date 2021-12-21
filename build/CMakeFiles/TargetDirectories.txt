@@ -1,0 +1,4 @@
+/Users/bebra/Desktop/AK_lab2/build/CMakeFiles/rebuild_cache.dir
+/Users/bebra/Desktop/AK_lab2/build/CMakeFiles/edit_cache.dir
+/Users/bebra/Desktop/AK_lab2/build/CMakeFiles/ne_dushite_pls.dir
+/Users/bebra/Desktop/AK_lab2/build/CMakeFiles/lib.dir
